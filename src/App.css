@@ -1,0 +1,16 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+.qwer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.tablee {
+  border: 1px solid #000;
+  /* width: 70%; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  margin: 2em;
+}
